@@ -24,4 +24,5 @@ tensorflow
 plotly 
 openpyxl
 vaderSentiment
+textblob
 
